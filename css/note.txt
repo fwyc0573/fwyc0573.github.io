@@ -1,4 +1,4 @@
 颜色样式使用了9ca的css文件
 对应位置在light关键词，原先使用的是#f76497颜色
-修改后：
-a:hover{color:#000;text-decoration:none;transition:color .6s ease}a:hover,a:focus{color:#000}
+修改后#A95C68
+a:hover{color:#A95C68;text-decoration:none;transition:color .6s ease}a:hover,a:focus{color:#A95C68}
