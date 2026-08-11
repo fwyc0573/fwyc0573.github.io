@@ -6,3 +6,7 @@
     font-size: 22px;
     /* 或者你想要的其他大小 */
 }
+
+#profile .portrait {
+    object-position: center 55%;
+}
