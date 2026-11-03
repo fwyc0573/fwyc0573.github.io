@@ -1,0 +1,12 @@
+# Local OS metadata
+.DS_Store
+
+# Private CVs and resume sources must never be published.
+/pdf/*[Cc][Vv]*
+/pdf/[Rr]esume*
+/pdf/res.cls
+
+# LaTeX build artifacts may contain private source paths or content.
+*.aux
+*.log
+*.synctex.gz
